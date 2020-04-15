@@ -1,0 +1,12 @@
+<resources>
+    <string name="name">name</string>
+    <string name="next">next</string>
+    <string name="ok">ok</string>
+    <string name="height">height</string>
+    <string name="weight">weight</string>
+    <string name="app_name">BMI</string>
+    <string name="w_std">Good!!</string>
+    <string name="msg1">your BMI is</string>
+    <string name="w_high">Too high</string>
+    <string name="w_low">Too low</string>
+</resources>
